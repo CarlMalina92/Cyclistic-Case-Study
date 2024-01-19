@@ -78,7 +78,7 @@ Here is a screenshot of the dashboard:
 
 ![Dashboard Screenshot](https://github.com/CarlMalina92/Cyclistic-Case-Study/blob/main/Dashboard-Screenshot.png)
 
-The main insight are summarized below:
+The main insights are summarized below:
 
 **Members**
 * The top start end end stations for members are located in close proximity to universities and office building, indicating that members primarily use the bikes for commuting
