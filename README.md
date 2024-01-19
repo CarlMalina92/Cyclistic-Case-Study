@@ -52,7 +52,7 @@ After unzipping all the files, I started my data cleaning by opening the .csv fi
 * Created a column called `day_of_week` using the **WEEKDAY()** function. The result was formatted as a number, representing the weekday as 1=Sunday and 7=Saturday
 * Removed rides shorter than 1 minute and longer than 24 hours
 
-After performing these steps and taking the time to perform operations due to the large size of the data, I decided to proceed using SQL for the remaining data cleaning and further analysis.
+After performing these steps and taking the time to perform operations due to the large size of the data into consideration, I decided to proceed using SQL for the remaining data cleaning and further analysis.
 
 #### SQL
 
